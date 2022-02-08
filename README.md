@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flezus58
+- 👀 I’m interested in Web Site Coding
+- 🌱 I’m currently learning HTML, CSS, Pyhton, JS
+- 📫 How to reach me sedatuz49@gmail.com
